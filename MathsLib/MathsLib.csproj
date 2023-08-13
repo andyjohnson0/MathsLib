@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>uk.andyjohnson.MathsLib</RootNamespace>
+    <Title>Maths library</Title>
+    <Version></Version>
+    <Authors>Andrew Johnson</Authors>
+    <Description>Maths library</Description>
+    <PackageProjectUrl>https://github.com/andyjohnson0/MathsLib</PackageProjectUrl>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <RepositoryUrl>https://github.com/andyjohnson0/MathsLib</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <AssemblyVersion>0.8</AssemblyVersion>
+  </PropertyGroup>
+
+</Project>
